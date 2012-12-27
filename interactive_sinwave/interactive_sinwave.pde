@@ -14,4 +14,4 @@ void draw() {
     stroke(sinwave[i]*255);
     line(i, 0, i, height);
   }
-}
+
